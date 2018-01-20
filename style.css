@@ -3,10 +3,13 @@ header{
   padding: 10px;
   text-align: center;
 }
+a {
+  text-decoration: none;
+}
 nav{
   border-right : 2px solid gray;
   width : 200px;
-  height: 600px;
+  height: 1000px;
   float:left;
 }
 nav ol{
